@@ -1,0 +1,1 @@
+New 250 stories JSON: id, category, sender, letter, answers. Existing app embeds its stories inline; do not simply upload JSON and expect it to load.
